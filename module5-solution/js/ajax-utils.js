@@ -63,5 +63,5 @@ function handleResponse(request,
 global.$ajaxUtils = ajaxUtils;
 
 
-})(window);
+});
 
